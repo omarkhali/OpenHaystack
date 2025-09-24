@@ -1,4 +1,4 @@
-git clone https://github.com/omarkhali/OpenHaystack
+git clone https://github.com/omarkhali/OpenHaystack.git
 
 sudo chmod +x /root/setup_duckdns_lets.sh
 
